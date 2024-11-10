@@ -1,0 +1,121 @@
+{
+  "user": [
+    {
+      "name": "Tapash abc",
+      "email": "Tapash@gmail.com",
+      "password": "12345",
+      "username": "Tapash421",
+      "blogs": [12345, 12346],
+      "passKey": "udytewgdfuyewgfbfucyhwbdev"
+    },
+    {
+      "name": "Tapas Behera",
+      "email": "tapas@gmail.com",
+      "password": "12345",
+      "username": "tapas_02",
+      "blogs": [12347, 12348],
+      "passKey": "253645hg24jy382476"
+    },
+    {
+      "name": "Dummmy User",
+      "email": "dummy@gmail.com",
+      "password": "12345",
+      "username": "dummy123",
+      "blogs": [],
+      "passKey": "udytewgdfuyewgfbfucyhwbdev"
+    }
+  ],
+  "blogs": [
+    {
+      "id": 12345,
+      "title": "Blog Title 1",
+      "authorName": "tapas Brhera",
+      "username": "@tapas421",
+      "likes": 124,
+      "share": 45,
+      "comments": [
+        "dfjkshbgvvhjsjhsdbhjf sdjufgds vsdfjhvdfsj",
+        "jsdhvcjhds dshufsd dsjfvds dsjds"
+      ],
+      "article": "jsdhgfchjsdc sdciuydscj dscwdes  sadegfiuysdbc jhbdgfiuyadscmn sdchjgdsacjbdscm sdcb.sdfhsdfv dfsvgds sdjhfgjsdbcvdsjhbcgvhjuydsgcbjdscgdscjhbdshjbcuysdegcbdsbcviudscsdcdsmncvbieruf erjvgberwjfv erverbgvejrhbfgver verufguerwhbver fvhjersbcuvybsdj vdsb  vhjuesvbndes"
+    },
+    {
+      "id": 12346,
+      "title": "Blog Title 2",
+      "likes": 124,
+      "authorName": "Tapas Behera",
+      "username": "@tapas_02",
+      "share": 45,
+      "comments": [
+        "dfjkshbgvvhjsjhsdbhjf sdjufgds vsdfjhvdfsj",
+        "jsdhvcjhds dshufsd dsjfvds dsjds"
+      ],
+      "article": "jsdhgfchjsdc sdciuydscj dscwdes  sadegfiuysdbc jhbdgfiuyadscmn sdchjgdsacjbdscm sdcb.sdfhsdfv dfsvgds sdjhfgjsdbcvdsjhbcgvhjuydsgcbjdscgdscjhbdshjbcuysdegcbdsbcviudscsdcdsmncvbieruf erjvgberwjfv erverbgvejrhbfgver verufguerwhbver fvhjersbcuvybsdj vdsb  vhjuesvbndes"
+    },
+    {
+      "id": 12347,
+      "title": "Blog Title 3",
+      "likes": 124,
+      "authorName": "Tapas Behera",
+      "username": "@tapas_02",
+      "share": 45,
+      "comments": [
+        "dfjkshbgvvhjsjhsdbhjf sdjufgds vsdfjhvdfsj",
+        "jsdhvcjhds dshufsd dsjfvds dsjds"
+      ],
+      "article": "jsdhgfchjsdc sdciuydscj dscwdes  sadegfiuysdbc jhbdgfiuyadscmn sdchjgdsacjbdscm sdcb.sdfhsdfv dfsvgds sdjhfgjsdbcvdsjhbcgvhjuydsgcbjdscgdscjhbdshjbcuysdegcbdsbcviudscsdcdsmncvbieruf erjvgberwjfv erverbgvejrhbfgver verufguerwhbver fvhjersbcuvybsdj vdsb  vhjuesvbndes"
+    },
+    {
+      "id": 12348,
+      "title": "Blog Title 4",
+      "likes": 124,
+      "authorName": "tapas Brhera",
+      "username": "@tapas421",
+      "share": 45,
+      "comments": [
+        "dfjkshbgvvhjsjhsdbhjf sdjufgds vsdfjhvdfsj",
+        "jsdhvcjhds dshufsd dsjfvds dsjds"
+      ],
+      "article": "jsdhgfchjsdc sdciuydscj dscwdes  sadegfiuysdbc jhbdgfiuyadscmn sdchjgdsacjbdscm sdcb.sdfhsdfv dfsvgds sdjhfgjsdbcvdsjhbcgvhjuydsgcbjdscgdscjhbdshjbcuysdegcbdsbcviudscsdcdsmncvbieruf erjvgberwjfv erverbgvejrhbfgver verufguerwhbver fvhjersbcuvybsdj vdsb  vhjuesvbndes"
+    },
+    {
+      "id": 12349,
+      "title": "Blog Title 5",
+      "likes": 124,
+      "authorName": "tapas Brhera",
+      "username": "@tapas421",
+      "share": 45,
+      "comments": [
+        "dfjkshbgvvhjsjhsdbhjf sdjufgds vsdfjhvdfsj",
+        "jsdhvcjhds dshufsd dsjfvds dsjds"
+      ],
+      "article": "jsdhgfchjsdc sdciuydscj dscwdes  sadegfiuysdbc jhbdgfiuyadscmn sdchjgdsacjbdscm sdcb.sdfhsdfv dfsvgds sdjhfgjsdbcvdsjhbcgvhjuydsgcbjdscgdscjhbdshjbcuysdegcbdsbcviudscsdcdsmncvbieruf erjvgberwjfv erverbgvejrhbfgver verufguerwhbver fvhjersbcuvybsdj vdsb  vhjuesvbndes"
+    },
+    {
+      "id": 12350,
+      "title": "Blog Title 6",
+      "likes": 124,
+      "share": 45,
+      "authorName": "Tapas Behera",
+      "username": "@tapas_02",
+      "comments": [
+        "dfjkshbgvvhjsjhsdbhjf sdjufgds vsdfjhvdfsj",
+        "jsdhvcjhds dshufsd dsjfvds dsjds"
+      ],
+      "article": "jsdhgfchjsdc sdciuydscj dscwdes  sadegfiuysdbc jhbdgfiuyadscmn sdchjgdsacjbdscm sdcb.sdfhsdfv dfsvgds sdjhfgjsdbcvdsjhbcgvhjuydsgcbjdscgdscjhbdshjbcuysdegcbdsbcviudscsdcdsmncvbieruf erjvgberwjfv erverbgvejrhbfgver verufguerwhbver fvhjersbcuvybsdj vdsb  vhjuesvbndes"
+    },
+    {
+      "id": 12351,
+      "title": "Blog Title 7",
+      "likes": 124,
+      "authorName": "Tapas Behera",
+      "username": "@tapas_02",
+      "share": 45,
+      "comments": [
+        "dfjkshbgvvhjsjhsdbhjf sdjufgds vsdfjhvdfsj",
+        "jsdhvcjhds dshufsd dsjfvds dsjds"
+      ],
+      "article": "jsdhgfchjsdc sdciuydscj dscwdes  sadegfiuysdbc jhbdgfiuyadscmn sdchjgdsacjbdscm sdcb.sdfhsdfv dfsvgds sdjhfgjsdbcvdsjhbcgvhjuydsgcbjdscgdscjhbdshjbcuysdegcbdsbcviudscsdcdsmncvbieruf erjvgberwjfv erverbgvejrhbfgver verufguerwhbver fvhjersbcuvybsdj vdsb  vhjuesvbndes"
+    }
+  ]
+}
